@@ -1,0 +1,33 @@
+/*Navbar Styles*/
+.navbar{
+    background-color: oklch(var(--b3));
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.list{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.acmimage{
+    width: 40px;
+    height: 40px;
+}
+
+
+
+/*Footer Styles*/
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;  
+    background-color: oklch(var(--b3));
+}
+
+.form{
+    border-radius: 10px;
+}
+
+
+
